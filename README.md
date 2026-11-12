@@ -9,4 +9,4 @@
 - **Execution First** — Obsessed with rapid shipping and eliminating real user friction over theoretical perfection.
 
 #### Tech Stack
-[![Tech Stack](https://skillicons.dev/icons?i=rust,cpp,ts,js,go,py,dart,cs)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=rust,go,cpp,ts,js,py,dart,cs)](https://skillicons.dev)
